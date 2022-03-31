@@ -1,0 +1,24 @@
+.card.brown {
+  display: flex;
+  align-items: flex-start;
+  background: #DDBEA9;
+  height: 82px;
+  width: 336px;
+}
+
+
+.container {
+	display: flex;
+	height: 1026px;
+    left: 1480px;
+    top: 101px;
+    justify-content: space-between;
+}
+.card-category {
+  display: flex;
+  justify-content: flex-end;
+	height: 3503px;
+
+  right: 900px;
+	background: #FCD5CE;
+}

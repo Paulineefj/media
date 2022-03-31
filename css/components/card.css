@@ -1,0 +1,24 @@
+.reseaux {
+	align-items: flex-end;
+}
+.card1 {
+	display: flex;
+	height: 309px;
+    width: 1000px;
+    background-color: #ddbea9
+
+    }
+
+.image {
+	height: 309px;
+    width: 383px;
+    border-radius: 60px;
+    object-fit: cover;
+}
+.card.brown {
+  display: flex;
+  align-items: flex-start;
+  background: #DDBEA9;
+  height: 82px;
+  width: 336px;
+}
